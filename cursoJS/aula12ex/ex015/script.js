@@ -22,7 +22,7 @@ function verificar(){
         var idade = ano - Number(fano.value)
         //iniciando uma variável genero
         var genero = ''
-        //criando um elemento para idade
+        //criando um elemento para imagem
         var img = document.createElement('img')
         //setando um atributo com id e nome
         img.setAttribute('id', 'foto')
