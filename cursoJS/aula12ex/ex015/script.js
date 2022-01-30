@@ -18,12 +18,16 @@ function verificar(){
     }else{
         //pegando o sexo selecionado no programa
         var fsexo = document.getElementsByName('radsex')
+
         //fazendo a conta da idade para dar a idade exata
         var idade = ano - Number(fano.value)
+
         //iniciando uma variável genero
         var genero = ''
+
         //criando um elemento para imagem
         var img = document.createElement('img')
+        
         //setando um atributo com id e nome
         img.setAttribute('id', 'foto')
 
