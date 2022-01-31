@@ -1,2 +1,2 @@
 # Estudos-JavaScript
- Esse repositório é voltado para o estudo iniciante em JavaScript.
+ Esse é o repositório das aulas que eu fiz do curso de javascript iniciante do curso em vídeo.
